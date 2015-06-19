@@ -270,8 +270,7 @@
       text-align: center;
       color: #fff;
       background-attachment: scroll;
-      /*background-image: url(../img/header-bg.jpg);*/
-      background-color: #222;
+      background-image: url(../img/background.png);
       background-position: center center;
       background-repeat: none;
       -webkit-background-size: cover;
