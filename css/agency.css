@@ -683,6 +683,7 @@
   footer {
       padding: 25px 0;
       text-align: center;
+      background-image: url(../img/backgroundsmall.png)
   }
 
   footer span.copyright {
